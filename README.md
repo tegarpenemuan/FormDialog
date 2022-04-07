@@ -5,4 +5,4 @@
 https://www.youtube.com/watch?v=SkFcDWt9GV4&t=34s
 
 ## Demo
-<img src="Demo/demo.gif" width="400" height="800"/>
+<img src="Demo/demo.gif" width="340" height="740"/>
